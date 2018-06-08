@@ -1,6 +1,9 @@
 .idea
 __pycache__
 traffic/.idea/misc.xml
-whale/train
-whale/train.zip
-whale/.vscode/launch.json
+Humpback_Whale/preprocess/train
+Humpback_Whale/preprocess/train.zip
+Humpback_Whale/preprocess/.vscode/launch.json
+Humpback_Whale/preprocess/whale.ipynb
+Humpback_Whale/preprocess/.ipynb_checkpoints/whale-checkpoint.ipynb
+
