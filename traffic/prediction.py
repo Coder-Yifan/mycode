@@ -16,6 +16,6 @@ def predict_1(img_path,model_path,width,height):
     print('real:{0}'.format(img_path))
 def predict_more()
 if __name__ == "__main__":
-    img_path = 'E:/data/traffic/traffic-sign/test/00060/00552_00000.png'
+    img_path = 'E:/data/traffic/traffic-sign/Humpback Whale/00060/00552_00000.png'
     model_path = 'E:/data/traffic/mymodel.h5'
     predict_more(img_path,model_path,32,32)

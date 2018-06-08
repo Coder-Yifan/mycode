@@ -11,7 +11,7 @@ CLASS_NUM = 62
 norm_size = 32
 
 train_path = 'E:/data/traffic/traffic-sign/train'
-test_path = 'E:/data/traffic/traffic-sign/test'
+test_path = 'E:/data/traffic/traffic-sign/Humpback Whale'
 s_time = time.strftime("%Y%m%d%H%M%S", time.localtime())  #时间戳
 log_path = 'E:/data/traffic/logs/log_%s'%(s_time)
 model_path = 'E:/data/traffic/mymodel.h5'
